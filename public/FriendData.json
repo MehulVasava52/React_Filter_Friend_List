@@ -1,0 +1,31 @@
+{
+  "friendList": [
+    {
+      "category": "school friend",
+      "hobby": "reading",
+      "name": "prakash",
+      "age": 24,
+      "job": "journalist"
+    },
+    {
+      "category": "school friend",
+      "hobby": "cricket",
+      "name": "mukesh",
+      "age": 25,
+      "job": "coach"
+    },
+    {
+      "category": "office friend",
+      "hobby": "video games",
+      "name": "rakesh",
+      "age": 28
+    },
+    {
+      "category": "collegue",
+      "hobby": "coding",
+      "name": "devansh",
+      "age": 23,
+      "job": "softwere developer"
+    }
+  ]
+}

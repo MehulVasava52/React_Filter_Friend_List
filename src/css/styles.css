@@ -1,0 +1,32 @@
+.App {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: center;
+}
+
+.filterBar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+}
+
+.filterBar select {
+  margin-left: 10px;
+}
+
+.tilesContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 100vh;
+}
+
+.tile {
+  padding: 15px;
+  box-shadow: 10px 5px 5px #4e151540;
+  border-radius: 15px;
+  font-family: serif;
+  border: 1px black;
+  background: rgba(233, 182, 72, 0.692);
+}

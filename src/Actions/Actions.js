@@ -1,0 +1,5 @@
+const SET_FILTER = "SET_FILTER";
+const REMOVE_FILTER = "REMOVE_FILTER";
+const SET_DATA = "SET_DATA";
+
+export default { SET_FILTER, REMOVE_FILTER, SET_DATA };
